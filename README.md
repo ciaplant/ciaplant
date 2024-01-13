@@ -2,7 +2,13 @@
 
 🪴
 
-<code>climate change will manifest as a series of disasters viewed through phones with footage that gets closer and closer to where you live until you're the one filming it</code>
+```
+climate change will manifest
+as a series of disasters
+viewed through phones with footage
+that gets closer and closer to where you live
+until you're the one filming it
+```
 
 <!---
 ciaplant/ciaplant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
